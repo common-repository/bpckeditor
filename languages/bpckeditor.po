@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bpCKEditor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-30 18:57-0430\n"
+"PO-Revision-Date: 2010-11-30 18:58-0430\n"
+"Last-Translator: Williams Castillo <eduven@gmail.com>\n"
+"Language-Team: WilliamsCastillo.com <eduven@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: Venezuela\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Fuentes\\WP\\wp-content\\plugins\\bpckeditor\n"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:27
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:33
+msgid "can't be readed here. Please double check it. Remember to include a trailing slash."
+msgstr "can't be readed here. Please double check it. Remember to include a trailing slash."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:43
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:55
+msgid "General Settings"
+msgstr "General Settings"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:58
+msgid "Where do you want to show this settings page?"
+msgstr "Where do you want to show this settings page?"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:60
+msgid "In a top level menu"
+msgstr "In a top level menu"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:61
+msgid "In BuddyPress menu"
+msgstr "In BuddyPress menu"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:62
+msgid "In Settings menu"
+msgstr "In Settings menu"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:67
+msgid "Path to CKEditor's folder"
+msgstr "Path to CKEditor's folder"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:69
+msgid "Introduce the full path to your copy of CKEditor. I.e: "
+msgstr "Introduce the full path to your copy of CKEditor. I.e: "
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:73
+msgid "URL to CKEditor's folder"
+msgstr "URL to CKEditor's folder"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:75
+msgid "Introduce the URL to the previous path. I.e: "
+msgstr "Introduce the URL to the previous path. I.e: "
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:78
+msgid "Path to CKFinder's folder"
+msgstr "Path to CKFinder's folder"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:80
+msgid "Introduce the full path to your copy of CKFinder. If not set, we won't try to connect CKEditor with CKfinder"
+msgstr "Introduce the full path to your copy of CKFinder. If not set, we won't try to connect CKEditor with CKfinder"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:84
+msgid "URL to CKFinder's folder"
+msgstr "URL to CKFinder's folder"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:86
+msgid "Introduce the URL to the previous path."
+msgstr "Introduce the URL to the previous path."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:91
+msgid "Editor Settings"
+msgstr "Editor Settings"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:99
+msgid "The width of editing area( content ), in relative or absolute."
+msgstr "The width of editing area( content ), in relative or absolute."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:103
+msgid "The height of editing area( content ), in relative or absolute."
+msgstr "The height of editing area( content ), in relative or absolute."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:108
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:112
+msgid "Whether to enable the resizing feature."
+msgstr "Whether to enable the resizing feature."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:116
+msgid "The maximum editor width, in pixels, when resizing it with the resize handle."
+msgstr "The maximum editor width, in pixels, when resizing it with the resize handle."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:120
+msgid "The minimum editor height, in pixels, when resizing it with the resize handle."
+msgstr "The minimum editor height, in pixels, when resizing it with the resize handle."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:124
+msgid "The minimum editor width, in pixels, when resizing it with the resize handle."
+msgstr "The minimum editor width, in pixels, when resizing it with the resize handle."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:129
+msgid "The maximum height to which the editor can reach using AutoGrow."
+msgstr "The maximum height to which the editor can reach using AutoGrow."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:133
+msgid "The minimum height to which the editor can reach using AutoGrow."
+msgstr "The minimum height to which the editor can reach using AutoGrow."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:137
+msgid "Whether the replaced element (usually a textarea) is to be updated automatically when posting the form containing the editor."
+msgstr "Whether the replaced element (usually a textarea) is to be updated automatically when posting the form containing the editor."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:141
+msgid "The base href URL used to resolve relative and absolute URLs in the editor content."
+msgstr "The base href URL used to resolve relative and absolute URLs in the editor content."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:145
+msgid "The base Z-index for floating dialogs and popups."
+msgstr "The base Z-index for floating dialogs and popups."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:149
+msgid "The CSS file(s) to be used to apply style to the contents."
+msgstr "The CSS file(s) to be used to apply style to the contents."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:153
+msgid "Language code of the writting language which is used to author the editor contents."
+msgstr "Language code of the writting language which is used to author the editor contents."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:157
+msgid "The URL path for the custom configuration file to be loaded."
+msgstr "The URL path for the custom configuration file to be loaded."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:161
+msgid "Disables the ability of resize objects (image and tables) in the editing area."
+msgstr "Disables the ability of resize objects (image and tables) in the editing area."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:171
+msgid "Whether to render or not the editing block area in the editor interface."
+msgstr "Whether to render or not the editing block area in the editor interface."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:175
+msgid "Allow context-sensitive tab key behaviors."
+msgstr "Allow context-sensitive tab key behaviors."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:179
+msgid "Sets the behavior for the ENTER key."
+msgstr "Sets the behavior for the ENTER key."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:183
+msgid "Whether to use HTML entities in the output."
+msgstr "Whether to use HTML entities in the output."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:187
+msgid "List of additional plugins to be loaded."
+msgstr "List of additional plugins to be loaded."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:191
+msgid "Indicates whether the contents to be edited are being inputted as a full HTML page."
+msgstr "Indicates whether the contents to be edited are being inputted as a full HTML page."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:195
+msgid "Whether escape HTML when editor update original input element."
+msgstr "Whether escape HTML when editor update original input element."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:199
+msgid "Whether the editor must output an empty value (\"\") if it's contents is made by an empty paragraph only."
+msgstr "Whether the editor must output an empty value (\"\") if it's contents is made by an empty paragraph only."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:203
+msgid "Comma separated list of plugins to load and initialize for an editor instance."
+msgstr "Comma separated list of plugins to load and initialize for an editor instance."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:207
+msgid "A comma separated list of elements attributes to be removed when executing the \"remove format\" command."
+msgstr "A comma separated list of elements attributes to be removed when executing the \"remove format\" command."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:211
+msgid "A comma separated list of elements to be removed when executing the \"remove \" format\" command."
+msgstr "A comma separated list of elements to be removed when executing the \"remove \" format\" command."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:215
+msgid "List of plugins that must not be loaded."
+msgstr "List of plugins that must not be loaded."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:219
+msgid "If enabled (true), turns on SCAYT automatically after loading the editor."
+msgstr "If enabled (true), turns on SCAYT automatically after loading the editor."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:223
+msgid "Customizes the display of SCAYT context menu commands (\"Add Word\", \"Ignore\" and \"Ignore All\")."
+msgstr "Customizes the display of SCAYT context menu commands (\"Add Word\", \"Ignore\" and \"Ignore All\")."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:227
+msgid "Define order of placing of SCAYT context menu items by groups."
+msgstr "Define order of placing of SCAYT context menu items by groups."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:231
+msgid "Links SCAYT to custom dictionaries."
+msgstr "Links SCAYT to custom dictionaries."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:235
+msgid "Sets the customer ID for SCAYT."
+msgstr "Sets the customer ID for SCAYT."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:239
+msgid "Defines the number of SCAYT suggestions to show in the main context menu."
+msgstr "Defines the number of SCAYT suggestions to show in the main context menu."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:243
+msgid "Enables/disables the \"More Suggestions\" sub-menu in the context menu."
+msgstr "Enables/disables the \"More Suggestions\" sub-menu in the context menu."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:247
+msgid "Sets the default spellchecking language for SCAYT."
+msgstr "Sets the default spellchecking language for SCAYT."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:251
+msgid "Set the URL to SCAYT core."
+msgstr "Set the URL to SCAYT core."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:255
+msgid "Defines the behavior for the SHIFT+ENTER key."
+msgstr "Defines the behavior for the SHIFT+ENTER key."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:259
+msgid "The skin to load."
+msgstr "The skin to load."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:263
+msgid "The mode to load at the editor startup."
+msgstr "The mode to load at the editor startup."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:273
+msgid "Whether the toolbar can be collapsed by the user."
+msgstr "Whether the toolbar can be collapsed by the user."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:277
+msgid "The \"theme space\" to which rendering the toolbar."
+msgstr "The \"theme space\" to which rendering the toolbar."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:281
+msgid "Whether the toolbar must start expanded when the editor is loaded."
+msgstr "Whether the toolbar must start expanded when the editor is loaded."
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:328
+msgid "True"
+msgstr "True"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:329
+msgid "False"
+msgstr "False"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:351
+msgid "Definition"
+msgstr "Definition"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:362
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/backend.php:419
+msgid "Settings"
+msgstr "Settings"
+
+#: C:\Fuentes\WP\wp-content\plugins\bpckeditor/index.php:58
+msgid "<strong>BPCKEditor</strong></a> requires the BuddyPress plugin to work. Please <a href=\"http://buddypress.org\">install BuddyPress</a> first, or <a href=\"plugins.php\">deactivate BPCKEditor</a>."
+msgstr "<strong>BPCKEditor</strong></a> requires the BuddyPress plugin to work. Please <a href=\"http://buddypress.org\">install BuddyPress</a> first, or <a href=\"plugins.php\">deactivate BPCKEditor</a>."
+
